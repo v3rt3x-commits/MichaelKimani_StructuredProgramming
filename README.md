@@ -1,0 +1,2 @@
+# MichaelKimani_StructuredProgramming
+All my structured programming assignments
